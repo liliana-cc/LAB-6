@@ -1,3 +1,4 @@
+#Liliana Cantero
 def encode(password):
   pwEncoded = ""
 
